@@ -2,5 +2,7 @@ streamlit
 matplotlib
 numpy
 pandas
+reportlab
+Pillow
 
 
